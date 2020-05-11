@@ -1,2 +1,2 @@
 # labdemo
-Spring Boot with Angular
+Spring Boot, JPA and Angular
